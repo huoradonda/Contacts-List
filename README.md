@@ -27,7 +27,7 @@ First, you need to create a container on your web page where the list of contact
 
 ### 2. Add a Contact
 
-To add a new contact, call the `addContact` function and pass a contact object as an argument. The contact object should have the following properties: `name`, `phone`, `email`, `company`, `additionalInfo`, and `address`.
+To add a new contact, call the `addContact` function and pass a contact object as an argument. The contact object should have the following properties: `name`, `phone` and `email`.
 
 ```javascript
 var contact = {
