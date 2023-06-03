@@ -34,9 +34,6 @@ var contact = {
   name: "John Doe",
   phone: "+1 123-456-789",
   email: "john@example.com",
-  company: "Example Corp",
-  additionalInfo: "Additional information about the contact",
-  address: "New York, USA"
 };
 
 addContact(contact);
