@@ -7,7 +7,7 @@ The Contacts Framework is a simple JavaScript framework designed to manage a lis
 To use the Contacts Framework, you need to include the following files:
 
 1. `script.js`: The main JavaScript file that defines the functions and logic of the framework.
-2. `style.css`: The file containing styles for the framework's appearance.
+2. `styles.css`: The file containing styles for the framework's appearance.
 
 ```html
 <!-- Include the framework files -->
