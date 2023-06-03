@@ -1,4 +1,4 @@
-﻿# Contacts Framework Documentation
+﻿# Contacts Simple Framework Documentation
 
 The Contacts Framework is a simple JavaScript framework designed to manage a list of contacts. It provides a set of functions for adding, deleting, and displaying contacts on a web page.
 
